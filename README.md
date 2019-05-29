@@ -1,2 +1,2 @@
 # website
-Erik Champion
+Interactive History & Digital Culture
